@@ -1,0 +1,13 @@
+### Internship Experience – Data Science
+
+**Project Title:** AI-Powered Logistics Optimization and Factory Assignment Recommendation System  
+**Domain:** Data Science & Machine Learning  
+**Organization:** [Your Internship Organization]  
+**Duration:** [Internship Duration]
+
+- Analyzed the Nassau Candy Distributor dataset to identify logistics inefficiencies and delivery lead-time patterns.
+- Performed data cleaning, preprocessing, exploratory data analysis (EDA), and data visualization using Python, Pandas, NumPy, and Matplotlib.
+- Developed a lead-time analysis approach to evaluate delivery performance across products, regions, and shipping modes.
+- Designed a hypothetical factory assignment simulation to compare alternative assignments and estimate potential lead-time improvements.
+- Built an interactive Streamlit dashboard featuring scenario analysis, performance KPIs, risk assessment, and optimization recommendations.
+- Generated data-driven insights to support logistics planning, operational efficiency, and profitability analysis.
